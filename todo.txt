@@ -1,0 +1,7 @@
+1. write
+2. read
+3. present
+4. apply
+2.1 visit
+2.2 commit
+2.3 search
